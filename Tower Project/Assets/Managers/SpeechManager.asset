@@ -35,8 +35,8 @@ MonoBehaviour:
   syncSubtitlesToAudio: 0
   useAssetBundles: 0
   searchAudioFiles: 1
-  autoNameSpeechFiles: 1
-  referenceSpeechFiles: 0
+  autoNameSpeechFiles: 0
+  referenceSpeechFiles: 1
   autoSpeechFolder: Speech
   autoLipsyncFolder: Lipsync
   forceSubtitles: 1
@@ -52,10 +52,13 @@ MonoBehaviour:
   separateLinePause: 1
   resetExpressionsEachLine: 1
   lines: []
-  languages: []
-  languageIsRightToLeft: 
-  languageAudioAssetBundles: []
-  languageLipsyncAssetBundles: []
+  languages:
+  - Original
+  languageIsRightToLeft: 00
+  languageAudioAssetBundles:
+  - 
+  languageLipsyncAssetBundles:
+  - 
   ignoreOriginalText: 0
   sfxDucking: 0
   musicDucking: 0

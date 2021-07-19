@@ -19,4 +19,4 @@ MonoBehaviour:
   variablesManager: {fileID: 11400000, guid: 07a1651139c11f84284065b65eada0ff, type: 2}
   speechManager: {fileID: 11400000, guid: 43677a47258686149b7f8e7b3dfbd096, type: 2}
   cursorManager: {fileID: 11400000, guid: 17b3b36a56ecf374b8c11f071c218aec, type: 2}
-  menuManager: {fileID: 0}
+  menuManager: {fileID: 11400000, guid: d77b05b98b214b14480b9bb01fb61155, type: 2}
