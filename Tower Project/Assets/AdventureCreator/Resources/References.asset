@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 48bb4837106a44466aea61fef9b346fe, type: 3}
   m_Name: References
   m_EditorClassIdentifier: 
-  actionsManager: {fileID: 0}
-  sceneManager: {fileID: 0}
-  settingsManager: {fileID: 0}
-  inventoryManager: {fileID: 0}
-  variablesManager: {fileID: 0}
-  speechManager: {fileID: 0}
-  cursorManager: {fileID: 0}
+  actionsManager: {fileID: 11400000, guid: 99bea19eeba445b4dae0546f5a647b2e, type: 2}
+  sceneManager: {fileID: 11400000, guid: e975e596d3c83b544be70484c27daf6c, type: 2}
+  settingsManager: {fileID: 11400000, guid: bbb11c2c1a9891a478aea97440909426, type: 2}
+  inventoryManager: {fileID: 11400000, guid: 993da0d40f5dc9e4881a9659cdfabfd7, type: 2}
+  variablesManager: {fileID: 11400000, guid: 07a1651139c11f84284065b65eada0ff, type: 2}
+  speechManager: {fileID: 11400000, guid: 43677a47258686149b7f8e7b3dfbd096, type: 2}
+  cursorManager: {fileID: 11400000, guid: 17b3b36a56ecf374b8c11f071c218aec, type: 2}
   menuManager: {fileID: 0}
